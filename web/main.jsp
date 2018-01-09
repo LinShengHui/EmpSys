@@ -23,7 +23,7 @@
             <li><a href="pages/findEmp.jsp">查看员工</a></li>
         </ul>
 
-<h4>后台管理</h4>
+<h4>账号管理</h4>
 <ul>
     <li>
     <a href="pages/addUser.jsp">用户注册</a>
